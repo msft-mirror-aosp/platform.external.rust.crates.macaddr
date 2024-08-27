@@ -1,7 +1,0 @@
-{
-  "features": [
-    "serde",
-    "std"
-  ],
-  "run_cargo": false
-}
